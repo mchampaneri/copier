@@ -1,4 +1,4 @@
-### About
+###About
 
 Copier copys content from source file to destination file.  It uses mutliple go routine to achive heigher rate of copy speed.
 
@@ -10,4 +10,15 @@ But it may be a good start for you, If you are searching for sample project whic
 
 > Happy Coding
 
+#  How it works
 
+Copier is command line tool
+
+**It accepts 2 inputs **
+- path to source file 
+- path to destination file
+
+copier  {path-to-source-file}  {path-to-destination-file}
+
+exmple,
+copier  c:\sample.txt   d:\sample.txt
