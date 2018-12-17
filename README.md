@@ -14,7 +14,7 @@ But it may be a good start for you, If you are searching for sample project whic
 
 Copier is command line tool
 
-**It accepts 2 inputs **
+** It accepts 2 inputs **
 - path to source file 
 - path to destination file
 
